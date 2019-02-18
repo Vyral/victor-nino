@@ -11,41 +11,41 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Victor Nino
   title:
   license_number:
   about_markdown: |
 
-  brand:
-  brokerage:
+  brand: Nino Real Estate
+  brokerage: Keller Williams
   market:
-  address:
-  phone:
+  address: 12515-8 Research Blvd Ste 100, Austin, TX 78759
+  phone: 512-587-8652
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: realtor@victornino.com
+  url: https://VictorNino.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://victornino.kwrealty.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://victornino.kwrealty.com/map/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://victornino.kwrealty.com/sell/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://victornino.kwrealty.com/map/
 
 lender:
   show_section: false
@@ -91,8 +91,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#53AFF2'
+  theme_color: '#00409A'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -101,7 +101,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
