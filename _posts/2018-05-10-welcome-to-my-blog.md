@@ -20,7 +20,7 @@ tags:
 
 &nbsp;
 
-[...](https://www.youtube.com/watch?v=CqXoL2-9oIg)
+[...](https://www.youtube.com/watch?v=CqXoL2-9oIg){: target="_blank"}
 
 Our market remains strong, and I'm here to keep you updated.
 
