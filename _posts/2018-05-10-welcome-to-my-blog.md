@@ -28,7 +28,7 @@ So, I’ll be posting two monthly video messages on this blog to keep you update
 
 They will be valuable and useful in helping you stay on top of what’s happening in your area.
 
-Check back because content will be coming soon![...](https://www.youtube.com/watch?v=CqXoL2-9oIg)
+Check back because content will be coming soon!
 
 I’m excited to keep you updated on what’s happening with the real estate market!
 
