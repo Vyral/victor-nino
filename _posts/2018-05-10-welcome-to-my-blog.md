@@ -20,6 +20,8 @@ tags:
 
 &nbsp;
 
+[...](https://www.youtube.com/watch?v=CqXoL2-9oIg)
+
 Our market remains strong, and I'm here to keep you updated.
 
 I know what’s happening in the real estate market, and how the changing trends will directly affect you.
@@ -28,6 +30,8 @@ So, I’ll be posting two monthly video messages on this blog to keep you update
 
 They will be valuable and useful in helping you stay on top of what’s happening in your area.
 
-Check back because content will be coming soon!
+Check back because content will be coming soon![...](https://www.youtube.com/watch?v=CqXoL2-9oIg)
 
 I’m excited to keep you updated on what’s happening with the real estate market!
+
+&nbsp;
