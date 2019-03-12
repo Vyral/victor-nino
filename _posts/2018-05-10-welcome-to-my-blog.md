@@ -20,7 +20,7 @@ tags:
 
 &nbsp;
 
-[...](https://www.youtube.com/watch?v=CqXoL2-9oIg){: target="_blank"}
+[...![](/uploads/nino.JPG)](https://www.youtube.com/watch?v=CqXoL2-9oIg){: target="_blank"}
 
 Our market remains strong, and I'm here to keep you updated.
 
@@ -29,6 +29,8 @@ I know what’s happening in the real estate market, and how the changing trends
 So, I’ll be posting two monthly video messages on this blog to keep you updated.
 
 They will be valuable and useful in helping you stay on top of what’s happening in your area.
+
+&nbsp;
 
 Check back because content will be coming soon![...](https://www.youtube.com/watch?v=CqXoL2-9oIg)
 
