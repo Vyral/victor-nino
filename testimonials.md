@@ -73,13 +73,11 @@ Robert and Ruby McHaney</p>
 
 <p class ="testimonial-text">
 <!-- QUOTE TEXT -->
-<p>If you and your family are looking for a home to buy or sell then look no further. I would like to share our story about how Victor Niño and his team helped me and my wife sell our home.
-Robert and Ruby McHaney
-</p>
+<p>I have known Victor Niño for over 10 years. My wife and I recently used him to list our house in Pflugerville. He had a person clean our house from top to bottom and she got the oven as clean as when we moved in. Victor kept me informed at all times during the process and never ignored my requests. I am in the mortgage business and I know how unusual that is. Our house sold in less than 24 hours on the market. Victor is also helping us on the home we are building in Travisso. The day we decided to get serious with the builder I texted Victor and he drove in early from South Texas to meet us on a Sunday night. I have in the past and will in the future recommend Victor to anyone looking at buying, selling or renting a house. I felt like we were his top priority at all hours of the day.</p>
 </p>
 <p class="testimonial-author">
 <!-- QUOTE AUTHOR -->
-- Ruby Mejorado McHaney 
+- Michael Hudson
 <hr>
 
 <p class ="testimonial-text">
