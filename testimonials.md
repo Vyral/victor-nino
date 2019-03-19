@@ -16,7 +16,7 @@ permalink: /testimonials/
 </p>
 <p class="testimonial-author">
 <!-- QUOTE AUTHOR -->
-<p>- Natasha Rae Villegas</p>
+- Natasha Rae Villegas
 </p>
 <hr>
 
@@ -26,5 +26,4 @@ permalink: /testimonials/
 <p class="testimonial-author">
 <!-- QUOTE AUTHOR -->
 <p>- Seth Escobedo</p>
-</p>
 <hr>
