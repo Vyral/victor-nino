@@ -48,13 +48,18 @@ permalink: /testimonials/
 
 <p class ="testimonial-text">
 <!-- QUOTE TEXT -->
-<p>If you and your family are looking for a home to buy or sell then look no further. I would like to share our story about how Victor Niño and his team helped me and my wife sell our home.
-We bought a home in New Braunfels, in 2005 but moved later that year for a job offer in Washington State. We rented our home to various tenants but with the distance between here and Texas, it became too difficult to manage. Our last tenant notified us that they were moving out and my wife and I decided that it was time to quit being out of state landlords. We contacted Victor and he accepted us as clients immediately and began assisting us with a plan to sell our house. The last tenant left the house in a less than desirable condition and this area is one that my wife and I feel makes Victor and his team so special. Ms. Blanca Monarrez Fematt began assisting us with locating expert home cleaners, painting and lawn care professionals, as well as a highly recommended carpet installation expert. Another area that we feel allowed us to get our asking price was the outstanding home staging provided by Gina Ross. The home looked amazing! I couldn't believe that this was our home. It looked like it was staged for a magazine photo shoot.
-The professional photographer was great and did excellent work. With all of the great work done by these professionals our home was under contract within 3 weeks!
-Another area that also made us feel at ease was his constant open line of communication. Living out of state and having a 2 hour time difference, we had many questions. Victor and Blanca always took the time out of their busy schedules to call us back and put us at ease, no matter how silly our question.
-To me and my wife, this is the type of assistance that made the whole process that much easier and why we will recommend Victor and the Keller Williams team to anyone that is selling or buying a home or property across the country.
-We are lucky and extremely proud to be a part of the Victor Niño, Keller Williams family of friends.
-#convertingclientsintofreinds
+<p>If you and your family are looking for a home to buy or sell then look no further. I would like to share our story about how Victor Niño and his team helped me and my wife sell our home.</p>
+
+<p>We bought a home in New Braunfels, in 2005 but moved later that year for a job offer in Washington State. We rented our home to various tenants but with the distance between here and Texas, it became too difficult to manage. Our last tenant notified us that they were moving out and my wife and I decided that it was time to quit being out of state landlords. We contacted Victor and he accepted us as clients immediately and began assisting us with a plan to sell our house. The last tenant left the house in a less than desirable condition and this area is one that my wife and I feel makes Victor and his team so special. Ms. Blanca Monarrez Fematt began assisting us with locating expert home cleaners, painting and lawn care professionals, as well as a highly recommended carpet installation expert. Another area that we feel allowed us to get our asking price was the outstanding home staging provided by Gina Ross. The home looked amazing! I couldn't believe that this was our home. It looked like it was staged for a magazine photo shoot.
+The professional photographer was great and did excellent work. With all of the great work done by these professionals our home was under contract within 3 weeks!</p>
+
+<p>Another area that also made us feel at ease was his constant open line of communication. Living out of state and having a 2 hour time difference, we had many questions. Victor and Blanca always took the time out of their busy schedules to call us back and put us at ease, no matter how silly our question.</p>
+
+<p>To me and my wife, this is the type of assistance that made the whole process that much easier and why we will recommend Victor and the Keller Williams team to anyone that is selling or buying a home or property across the country.</p>
+
+<p>We are lucky and extremely proud to be a part of the Victor Niño, Keller Williams family of friends.</p>
+
+<p>#convertingclientsintofreinds</p>
 Robert and Ruby McHaney</p>
 </p>
 <p class="testimonial-author">
