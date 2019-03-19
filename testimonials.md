@@ -82,11 +82,76 @@ Robert and Ruby McHaney</p>
 
 <p class ="testimonial-text">
 <!-- QUOTE TEXT -->
-<p>If you and your family are looking for a home to buy or sell then look no further. I would like to share our story about how Victor Niño and his team helped me and my wife sell our home.
-</p>
+<p>Victor Niño is the best Realtor we have ever used to help us buy or sell a property. Victor Niño's service is unmatched. He is highly dependable and gets the job done. He makes sure the process flows smoothly from day one to the closing date. We highly recommend choosing Victor Niño as your Realtor. Jesus and Griselda Gonzalez</p>
 </p>
 <p class="testimonial-author">
 <!-- QUOTE AUTHOR -->
-- Ruby Mejorado McHaney 
+- Jesus Gonzalez
 <hr>
 
+<p class ="testimonial-text">
+<!-- QUOTE TEXT -->
+<p>Last year, I was fortunate enough to sit next to Victor at a Chinese restaurant. Not only did it make for great conversation, he helped me purchase my first condo. I knew absolutely nothing about buying, but he sat down with me and made the process painless. We met numerous times; my price range was low, but he treated me like I was buying a million dollar home. The condo he helped me find was amazing! It fit my budget and was in a wonderful location. I can't say enough for the service I was provided and the friendship we built. Victor for sure will be my only representative!!</p>
+</p>
+<p class="testimonial-author">
+<!-- QUOTE AUTHOR -->
+- Anthony Chen
+<hr>
+
+<p class ="testimonial-text">
+<!-- QUOTE TEXT -->
+<p>Victor was recommended to me by a friend and I couldn’t of been happier. I’m a first time home buyer so I wasn’t very familiar with the steps needed to buy a home. Victor helped me from the beginning to the end and still contacted me after I closed to see how things were going in the new home. Our initial meeting Victor tried to feel out my likes and dislikes to better the house hunting search. I never felt pressured to make any decision and he was always waiting for me to tell him when I was ready to check out a house. He was available 24/7 for anything that I needed, this shows the dedication and passion he has to serving you and getting you what you want.</p>
+</p>
+<p class="testimonial-author">
+<!-- QUOTE AUTHOR -->
+- Nick McNamara
+<hr>
+
+<p class ="testimonial-text">
+<!-- QUOTE TEXT -->
+<p>Victor & Diego helped me purchase my home last September and as I’m nearing my anniversary in this house I couldn’t be happier. They were both so willing to show me around anytime I asked and if one of them couldn’t, they would make sure someone from their team did. 
+We were also easy customers (I’d like to think). We knew exactly what we wanted, why and around where. Adding their knowledge made our process a breeze.
+Buying a home is a multi year proposition that shouldn’t be taken lightly so I took it upon myself to search the best lender. Of course they made recommendations and I used their contacts but when it came time to see who offered me the best deal, both Diego and Víctor reviewed all documents to see which one would help me the most and laid out clearly so that we could made the most educated decision.
+I also want to highlight that this year as we were nearning our one year, we did a warranty inspection (bought new) and the guy (which Victor recommended) said we didn’t have to be home. Well I happened to be here and he reminded me that Diego was at the property when he inspected the house last year. I remember I was out of town and even though no one had to be at the property (at that time empty still) they made sure to be present. They had already closed our deal and didn’t have to do that but they did because they CARE!</p>
+<p>I’m happy to say that now Victor is helping me sell my other home and he will be helping me find my parents another one too. Give this guy and his team your business and you’ll be happy you did.</p>
+</p>
+<p class="testimonial-author">
+<!-- QUOTE AUTHOR -->
+- Michelle Uribe
+<hr>
+
+<p class ="testimonial-text">
+<!-- QUOTE TEXT -->
+<p>Victor is a great man who is very trustworthy. I'm so glad he was the realtor I picked during my home buying process. He is now my good friend of mine and I'd recommend him to anyone interested in real estate.</p>
+</p>
+<p class="testimonial-author">
+<!-- QUOTE AUTHOR -->
+- Jesus Rendon
+<hr>
+
+<p class ="testimonial-text">
+<!-- QUOTE TEXT -->
+<p>The experience with Victor was awesome! From the beginning to end he was always in contact with us. He didn't make us feel like a customer, he made us feel like we were great friends( till this day we still are, even after the sale). I would highly recommend him and his team if you want the best of the best.</p>
+</p>
+<p class="testimonial-author">
+<!-- QUOTE AUTHOR -->
+- David Fenton
+<hr>
+
+<p class ="testimonial-text">
+<!-- QUOTE TEXT -->
+<p>Victor Niño is one of the most professional Realtors I have met in my 20 year real estate finance career. He is a man of integrity and keeps his word... he does what he says he is going to do!</p>
+</p>
+<p class="testimonial-author">
+<!-- QUOTE AUTHOR -->
+- Frank Fuentes
+<hr>
+
+<p class ="testimonial-text">
+<!-- QUOTE TEXT -->
+<p>Victor and his team helped me find and buy the perfect home this year. The team was always very responsive and knowledgeable. It was a great experience working with such a professional and friendly group!</p>
+</p>
+<p class="testimonial-author">
+<!-- QUOTE AUTHOR -->
+- Daisy Cantu-Morin
+<hr>
