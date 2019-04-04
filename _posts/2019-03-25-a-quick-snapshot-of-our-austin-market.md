@@ -17,7 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/new-victor-nino-the-latest-from-our-austin-real-estate-market-youtube-new-1.jpg
-youtube_code: 'https://youtu.be/RPm314ETErs'
+youtube_code: 'https://youtu.be/H9OdIj3JXKw'
 ---
 
 {% include youtube.html %}
