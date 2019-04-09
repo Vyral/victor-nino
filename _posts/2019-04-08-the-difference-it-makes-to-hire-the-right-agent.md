@@ -21,4 +21,4 @@ youtube_code: 'https://youtu.be/_2rf0oWBb_o'
 
 {% include pullquote.html %}
 
-My name is Victor Niño and I’d be happy to offer you the service you deserve. With that said, I’d like to take a moment to welcome you to my new YouTube channel. I truly want this page to be a resource for all of your real estate needs, so if there is a specific topic you’d like more information about, let me know. If you have any other questions or would like to know more about what it’s like to work with me and Keller Williams Realty, give me a call or send me an email. I look forward to hearing from you soon.
+&nbsp;
