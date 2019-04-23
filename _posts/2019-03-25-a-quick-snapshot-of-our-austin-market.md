@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
-  /uploads/new-victor-nino-the-latest-from-our-austin-real-estate-market-youtube-new-1.jpg
+  /uploads/new-victor-nino-the-latest-from-our-austin-real-estate-market-email-new.jpg
 youtube_code: 'https://youtu.be/H9OdIj3JXKw'
 ---
 
@@ -38,4 +38,4 @@ Although inventory is low, **the recent decrease in interest rates gives buyers 
 
 If you’re thinking about selling, there’s a lot to gain considering the current rates as well. **Your pool of buyers will swell with increased affordability, but that pool will thin out when rates begin to increase again, and that translates to a lower sale price on your home. **
 
-If you’re ready to either buy or sell a home soon, please contact me. I’d be more than happy to see how I can be of assistance!
+If you’re ready to either buy or sell a home soon, please contact me. I’d be more than happy to see how I can be of assistance\!
