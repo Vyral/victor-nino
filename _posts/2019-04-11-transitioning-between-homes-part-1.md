@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
-  /uploads/victor-nino-whats-the-key-to-a-seamless-transition-between-homes-youtube.jpg
+  /uploads/victor-nino-whats-the-key-to-a-seamless-transition-between-homes-email.jpg
 youtube_code: 'https://youtu.be/d7Hzdlc2Xes'
 ---
 
