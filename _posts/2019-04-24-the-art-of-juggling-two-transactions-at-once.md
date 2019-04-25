@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Art of Juggling Two Transactions at Once
-date: 2019-04-25 14:56:27
+date: 2019-04-24 14:56:00
 tags:
   - Real Estate
 excerpt: >-
@@ -29,7 +29,7 @@ The first thing you need to do is have a conversation with your lender. You want
 
 {% include pullquote.html %}
 
-**Next, decide where you’ll live in the time between when you sell your current home and when you buy your new one.** Some will stay with friends and families, some will do a short-term lease, and some will actually just stay at a hotel to give them some buffer time.&nbsp;
+**Next, decide where you’ll live in the time between when you sell your current home and when you buy your new one.** Some will stay with friends and families, some will do a short-term lease, and some will actually just stay at a hotel to give them some buffer time. 
 
 The other option you have is a lease-back. Once you have officially closed on your current home, you become a tenant in the home that you own. Typically, this will be a couple of weeks or a couple of months if the buyer is willing, which will give you plenty of time. **Not every buyer is willing to do a lease-back, though.** If you do pursue this route, you’ll need to switch over your homeowners insurance to renters insurance.
 
@@ -41,4 +41,4 @@ It’s always important to have a Plan B. This way, in the event there are some 
 
 **Waiting to list your home until after you've found your new home sounds like a good idea in theory, but it’s really not.** Here’s what usually happens. You find the perfect home to buy that meets all your criteria and you want to make an offer, but you’re going to be submitting a contingent offer that’s much weaker. If your home isn’t on the market, that makes the seller much more hesitant to accept your offer. Buyers lose a lot of transactions these ways.
 
-There’s a lot more information to consider during this process and if you have any questions about it or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+There’s a lot more information to consider during this process and if you have any questions about it or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
