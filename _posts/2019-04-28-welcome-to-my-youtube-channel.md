@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/victor-nino-youtube-4-29-19.jpg
+youtube_alternate_image: /uploads/victor-nino-what-to-expect-from-my-channel-email.jpg
 youtube_code: 'https://youtu.be/ecNBGmjwQBU'
 ---
 
