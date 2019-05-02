@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Welcome to My Video Blog
 date: 2019-04-28 19:53:00
 tags:
   - Real Estate
