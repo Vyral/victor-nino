@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Art of Juggling Two Transactions at Once
+title: The Art of Juggling the Move Between 2 Homes
 date: 2019-04-24 14:56:00
 tags:
   - Real Estate
