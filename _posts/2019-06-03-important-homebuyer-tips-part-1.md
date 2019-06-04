@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Important Homebuyer Tips: Part 1'
-date: 2019-06-04 20:37:47
+date: 2019-06-03 20:37:00
 tags:
 excerpt: >-
   There are some things that every homebuyer should know before starting the
