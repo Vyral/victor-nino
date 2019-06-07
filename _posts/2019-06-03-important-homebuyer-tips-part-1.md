@@ -3,6 +3,8 @@ layout: post
 title: 'Important Homebuyer Tips: Part 1'
 date: 2019-06-03 20:37:00
 tags:
+  - Real Estate
+  - Home Buyer Tips
 excerpt: >-
   There are some things that every homebuyer should know before starting the
   process. Here are some things that you need to know.
