@@ -26,8 +26,6 @@ When you’re about to submit an offer on a home, make sure that you base that o
 
 However, keep in mind that as you start the process of buying a home, there are some expenses that you will incur, even before closing. The moment you submit an offer and it is accepted, you will immediately need two checks:
 
-&nbsp;
-
 1. **The earnest money check that’s given to the title company in order to open title.** This check should be about 1% of the purchase price of the home.
 2. **An option check payable to the owner of the home.** This shows that you’re really interested in their home and that you’re asking for seven to 10 days to do your due diligence to make sure the home is in great shape once you hire an inspector. This check should be for $100 to $300.
 
