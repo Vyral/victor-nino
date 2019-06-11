@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/victor-nino-tips-for-preparing-to-buy-a-home-youtube.jpg
-youtube_code: 'https://youtu.be/lVB5_PHJflg'
+youtube_code: 'https://youtu.be/SdtJegam-ac'
 ---
 
 {% include youtube.html %}
