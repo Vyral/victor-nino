@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What You Need to Know About the Homebuying Process
+title: What You Need to Know About the Home Buying Process
 date: 2019-06-10 00:00:00
 tags:
   - Real Estate
@@ -29,7 +29,7 @@ When you’re about to submit an offer on a home, make sure that you base that o
 
 {% include pullquote.html %}
 
-After this, you’ll hire an inspector. Bear in mind that this will cost anywhere from $400 to $600 depending on the size of the home. If you have a propane set up, a pool, or septic tank, there will be additional costs for additional expenses. You’ll also have to pay for the appraisal, but this fee is typically charged before closing. **Be prepared to have money for those expenses even before you show up at closing.** It’s also worth noting that many of the expenses will be credited at closing, with the exception of the inspection costs.
+After this, you’ll hire an inspector. Bear in mind that this will cost anywhere from $400 to $600 depending on the size of the home. If you have a propane setup, a pool, or septic tank, there will be additional costs for additional expenses. You’ll also have to pay for the appraisal, but this fee is typically charged before closing. **Be prepared to have money for those expenses even before you show up at closing.** It’s also worth noting that many of the expenses will be credited at closing, with the exception of the inspection costs.
 
 **You also need to get an insurance quote as soon as your offer is accepted.** You’ll want to be aware if there have been any issues regarding a variety of past claims that could make that home uninsurable.
 
