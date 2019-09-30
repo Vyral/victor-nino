@@ -7,9 +7,7 @@ tags:
   - Market Update
 excerpt: Here’s what the historical numbers say about our Buda real estate market.
 enclosure:
-pullquote: >-
-  The average price in 2019 is more than double what it was all the way back in
-  1999.
+pullquote: The average price in 2019 is more than double what it was back in 1999.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -62,6 +60,6 @@ Remember, 2009 was in the heart of our economic downturn, but prices still went 
 
 (Additionally, from 2004 to now, the average square footage of sold homes in Buda has been between 2,000 and 2,200 square feet.)
 
-Note that the average price in 2019 is more than double what it was all the way back in 1999. This is even after home sales took a dive for about four or five years. If you look at the average days on market for all time periods, you’ll notice that it hovers between one and two months, which makes us traditionally a strong seller’s market.&nbsp;
+Note that the average price in 2019 is more than double what it was back in 1999. This is even after home sales took a dive for about four or five years. If you look at the average days on market for all time periods, you’ll notice that it hovers between one and two months, which makes us traditionally a strong seller’s market.&nbsp;
 
 Moving forward, make sure you stay informed on what’s happening in your real estate market on a local level. If you have any questions in the meantime or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d love to help you.
