@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Our Austin Real Estate Market Has Changed Since 1999
-date: 2019-11-26 15:59:20
+date: 2019-11-26 15:59:00
 tags:
   - Market Update
   - Real Estate
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
-  /uploads/victor-nino-real-estate-vs--stocks-which-investment-is-better-youtube-1.jpg
+  /uploads/victor-nino-a-20-year-history-of-our-austin-real-estate-market-youtube.jpg
 youtube_code: 'https://youtu.be/lJUEduI5B1w'
 ---
 
