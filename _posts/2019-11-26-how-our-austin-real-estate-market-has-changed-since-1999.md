@@ -28,7 +28,7 @@ Fast forward to 2004, just a couple of years after the 2001 downturn that long-t
 
 {% include pullquote.html %}&nbsp;
 
-As is true of all markets, though, there comes a point when the real estate cycle must dip. Growth can’t continue forever, after all. Therefore, **in 2014, we saw home prices (which had been rising since before the turn of the millenium) take a slight hit,** going down to an average of $200,095. Thanks to this increased affordability, total sales and the average DOM also rose. 6,268 homes sold in Austin that year, and those listings spent an average of just 28 DOM.&nbsp;
+As is true of all markets, though, there comes a point when the real estate cycle must dip. Growth can’t continue forever, after all. Therefore, **in 2014, we saw home prices (which had been rising since before the turn of the millennium) take a slight hit,** going down to an average of $200,095. Thanks to this increased affordability, total sales and the average DOM also rose. 6,268 homes sold in Austin that year, and those listings spent an average of just 28 DOM.&nbsp;
 
 So, now that we’ve looked back into the past, what can be said of today’s real estate market? How have things changed?&nbsp;
 
