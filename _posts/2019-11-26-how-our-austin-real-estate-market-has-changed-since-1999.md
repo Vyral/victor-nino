@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: What has happened in our Austin market over the last 20 years? Let’s discuss.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Victor+Nino/2019/How+Our+Austin+Real+Estate+Market+Has+Changed+Since+1999.mp4
 pullquote: It’s a great time to make a move for buyers and sellers alike.
 enclosure_type: video/mp4
 enclosure_time:
