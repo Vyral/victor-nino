@@ -16,7 +16,9 @@ youtube_alternate_image: >-
 youtube_code: CHf0bxok-Ok
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>https://victornino.com/a-5-step-guide-to-homeownership.html</em></p>
 
 Where does your path to homeownership start? A lot of people get confused as to where you begin the journey that ends with the keys to your new home in hand, so today I’ll provide a step-by-step guide.&nbsp;
 
