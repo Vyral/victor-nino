@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A 5-Step Guide to Homeownership
-date: 2020-01-27 17:43:14
+date: 2020-01-27 17:43:00
 tags:
   - Home Buyer Tips
 excerpt: 'To complete your path to homeownership, there are five steps you must take.'
