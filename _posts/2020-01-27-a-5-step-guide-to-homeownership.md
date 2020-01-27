@@ -7,7 +7,7 @@ tags:
 excerpt: 'To complete your path to homeownership, there are five steps you must take.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Victor+Nino/2020/January/A+5-Step+Guide+to+Homeownership.mp4
-pullquote: Your agent should have a pulse on the market and know what’s been happening.
+pullquote: Your agent should have an eye on the market and know what’s been happening.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -18,7 +18,7 @@ youtube_code: CHf0bxok-Ok
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>To complete your path to homeownership, there are five steps you must take.</em></p>
+*To complete your path to homeownership, there are five steps you must take.*
 
 Where does your path to homeownership start? A lot of people get confused as to where you begin the journey that ends with the keys to your new home in hand, so today I’ll provide a step-by-step guide.&nbsp;
 
@@ -30,13 +30,11 @@ This is very helpful because they can be available on the weekends or after regu
 
 Second, **create a ‘must-have’ list.** A ‘must-have’ list includes things your home must have,&nbsp; otherwise you won’t buy it. If this list isn’t well-defined, your search will be so broad that you’ll get overwhelmed by the number of available homes.
 
-{% include pullquote.html %}&nbsp;
-
-Next, **drive around the area and get familiar with it.** I’ve found that people tend to ask friends, family, coworkers, etc., about certain areas of a particular town and blindly accept the information they give them. We all have different expectations and perceptions of what something means to us, so the only way to know whether a neighborhood is the right fit is to drive and/or walk around it ourselves.&nbsp;
+{% include pullquote.html %} Next, **drive around the area and get familiar with it.** I’ve found that people tend to ask friends, family, coworkers, etc., about certain areas of a particular town and blindly accept the information they give them. We all have different expectations and perceptions of what something means to us, so the only way to know whether a neighborhood is the right fit is to drive and/or walk around it ourselves.&nbsp;
 
 Also, **do your own research.** As you do this, you’ll come across a lot of information that tends to be contradictory. This is where a full-time agent can guide you and make sure you get all the proper information. Again, if you heed the advice of friends or family who aren’t as informed, you’ll make a decision that can prove costly.&nbsp;
 
-Lastly, **pick an agent you’re comfortable with.** How do you know the difference between a good Realtor and one who may not be up to the task? First, pick one who works full time and isn’t distracted by other commitments that might prevent them from guiding you through the process the right way. A Realtor may claim to be in business for 30 years, but the real number to know is how many families they’ve helped each year. It’s very different working with a Realtor who’s been in the business just five years but has helped 100 families each of those years than working with a Realtor that’s been in the business 30 years but has only helped three people each year. Your agent should have a pulse on the market and know what’s been happening.&nbsp;
+Lastly, **pick an agent with whom you're comfortable.** How do you know the difference between a good Realtor and one who may not be up to the task? First, pick one who works full time and isn’t distracted by other commitments that might prevent them from guiding you through the process the right way. A Realtor may claim to be in business for 30 years, but the real number to know is how many families they’ve helped each year. It’s very different working with a Realtor who’s been in the business just five years but has helped 100 families each of those years than working with a Realtor that’s been in the business 30 years but has only helped three people each year. Your agent should have an eye on the market and know what’s been happening.&nbsp;
 
 Also, ask what kind of continuing education they pursue. Your agent should always be seeking new information to guide you. Finally, find an agent who will negotiate for you.&nbsp;
 
