@@ -18,7 +18,7 @@ youtube_code: CHf0bxok-Ok
 
 {% include youtube.html %}
 
-*To complete your path to homeownership, there are five steps you must take.*
+<p style="text-align: center;"><em>To complete your path to homeownership, there are five steps you must take.</em></p>
 
 Where does your path to homeownership start? A lot of people get confused as to where you begin the journey that ends with the keys to your new home in hand, so today I’ll provide a step-by-step guide.&nbsp;
 
