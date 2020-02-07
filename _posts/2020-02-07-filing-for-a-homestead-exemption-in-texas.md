@@ -22,6 +22,8 @@ youtube_code: 'https://youtu.be/Bw_KC7MhXn8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Lone Star State homebuyers need to know about property taxes and the homestead exemption. Here are a few key points to hold onto.</em></p>
+
 So you’re either in the process of buying a home or you’ve already completed your purchase. No matter the case, here’s what you need to know about the homestead exemption in the state of Texas.
 
 **How do you qualify for the homestead exemption?&nbsp;**
