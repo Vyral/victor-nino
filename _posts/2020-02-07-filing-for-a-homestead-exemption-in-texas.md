@@ -43,7 +43,7 @@ As a homeowner with a homestead exemption, you get a 10% cap on appreciation, me
 
 {% include pullquote.html %}
 
-Some people get confused about paying their property tax below the home’s assessed value; they think that whatever the county determines their home’s value to be is the amount that they can sell it for. That’s completely separate. The country will determine the value of your home and that amount is the one used to determine what percentage of the tax rate you’ll be charged. &nbsp;
+Some people get confused about paying their property tax below the home’s assessed value; they think that whatever the county determines their home’s value to be is the amount for which they can sell it. That’s completely separate. The county will determine the value of your home and that amount is the one used to determine what percentage of the tax rate you’ll be charged. &nbsp;
 
 So, if you come to find that the county is appreciating your home a lot more than the market is bearing, reach out to me. I’ll help you challenge the tax appraisers and get your property’s value (and therefore, your property tax) adjusted more appropriately.
 
