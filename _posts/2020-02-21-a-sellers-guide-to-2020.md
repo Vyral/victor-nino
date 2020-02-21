@@ -22,6 +22,8 @@ youtube_code: 'https://youtu.be/vIa0IcGakMo'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If you plan on selling your home this year, you’ll want to first make sure you draft a solid game plan that covers the why, the when, and the how of your home sale.</em></p>
+
 The key to successfully selling in 2020 is to have the appropriate timeline. By what date would you like to have the profits from your home sale in your pocket (i.e., the paperwork’s been signed and the money has been deposited into your account)?&nbsp;
 
 Before you create a timeline, however, **you need to know how long will it most likely take for a home to sell in your subdivision.** The first thing I would do is contact a real estate professional who can provide accurate, detailed information like the average the days on market for your subdivision. Of course, it will matter greatly whether you price your home to sell or commit the common mistake of overpricing.&nbsp;
